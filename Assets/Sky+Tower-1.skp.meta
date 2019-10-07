@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: b5448f35b76d259459098af4682cf0ff
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 369e42940e10d9a925cca5c31f6e5631
+  longitude: 174.76226874820958
+  latitude: -36.84849462821119
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 168.57541, y: 286.4464, z: 83.745415}
+      lookAt: {x: -9558.034, y: -4221.5825, z: -4576.218}
+      up: {x: -0.34779298, y: 0.9226462, z: -0.16662565}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Google Earth Terrain
+    100002: //RootNode
+    100004: Thing
+    100006: Thing 1
+    100008: Thing 10
+    100010: Thing 11
+    100012: Thing 12
+    100014: Thing 13
+    100016: Thing 14
+    100018: Thing 15
+    100020: Thing 16
+    100022: Thing 17
+    100024: Thing 18
+    100026: Thing 19
+    100028: Thing 2
+    100030: Thing 20
+    100032: Thing 21
+    100034: Thing 22
+    100036: Thing 23
+    100038: Thing 3
+    100040: Thing 4
+    100042: Thing 5
+    100044: Thing 6
+    100046: Thing 7
+    100048: Thing 8
+    100050: Thing 9
+    400000: Google Earth Terrain
+    400002: //RootNode
+    400004: Thing
+    400006: Thing 1
+    400008: Thing 10
+    400010: Thing 11
+    400012: Thing 12
+    400014: Thing 13
+    400016: Thing 14
+    400018: Thing 15
+    400020: Thing 16
+    400022: Thing 17
+    400024: Thing 18
+    400026: Thing 19
+    400028: Thing 2
+    400030: Thing 20
+    400032: Thing 21
+    400034: Thing 22
+    400036: Thing 23
+    400038: Thing 3
+    400040: Thing 4
+    400042: Thing 5
+    400044: Thing 6
+    400046: Thing 7
+    400048: Thing 8
+    400050: Thing 9
+    2100000: _defaultMat
+    2100002: '[0132_LightGray]'
+    2100004: '[Color_H25]'
+    2100006: Slightly higher Silver
+    2100008: Darker
+    2100010: SmoothConcr1
+    2100012: _Gray6_
+    2100014: '[Asphalt_New]'
+    2100016: skytower2
+    2100018: '[Color_B01]'
+    2100020: Spots
+    2100022: '[0131_Silver]'
+    2100024: _1
+    2100026: _1#1
+    2100028: _1#2
+    2100030: _1#3
+    2100032: SmoothConcr2
+    2100034: skytower3
+    2100036: skytower4
+    2100038: skytower5
+    2100040: '[0135_DarkGray]'
+    2100042: '[Translucent_Glass_Gray]'
+    2100044: '[Color_000]1'
+    2100046: Google Earth Snapshot1
+    2300000: Google Earth Terrain
+    2300002: //RootNode
+    2300004: Thing
+    2300006: Thing 1
+    2300008: Thing 10
+    2300010: Thing 11
+    2300012: Thing 12
+    2300014: Thing 13
+    2300016: Thing 14
+    2300018: Thing 15
+    2300020: Thing 16
+    2300022: Thing 17
+    2300024: Thing 18
+    2300026: Thing 19
+    2300028: Thing 2
+    2300030: Thing 20
+    2300032: Thing 21
+    2300034: Thing 22
+    2300036: Thing 23
+    2300038: Thing 3
+    2300040: Thing 4
+    2300042: Thing 5
+    2300044: Thing 6
+    2300046: Thing 7
+    2300048: Thing 8
+    2300050: Thing 9
+    3300000: Google Earth Terrain
+    3300002: //RootNode
+    3300004: Thing
+    3300006: Thing 1
+    3300008: Thing 10
+    3300010: Thing 11
+    3300012: Thing 12
+    3300014: Thing 13
+    3300016: Thing 14
+    3300018: Thing 15
+    3300020: Thing 16
+    3300022: Thing 17
+    3300024: Thing 18
+    3300026: Thing 19
+    3300028: Thing 2
+    3300030: Thing 20
+    3300032: Thing 21
+    3300034: Thing 22
+    3300036: Thing 23
+    3300038: Thing 3
+    3300040: Thing 4
+    3300042: Thing 5
+    3300044: Thing 6
+    3300046: Thing 7
+    3300048: Thing 8
+    3300050: Thing 9
+    4300000: Mesh Sky+Tower-1
+    4300002: Mesh Google Earth Terrain
+    4300004: Mesh Thing
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
