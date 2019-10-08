@@ -20,7 +20,8 @@ MonoBehaviour:
     componentName: OpenVR Device Manager
     priority: 0
     runtimePlatform: 7
-    deviceManagerProfile: {fileID: 0}
+    deviceManagerProfile: {fileID: 11400000, guid: 019ea231fcd4127409ae7906b2996ee1,
+      type: 2}
   - componentType:
       reference: Microsoft.MixedReality.Toolkit.OpenVR.Input.OpenVRDeviceManager,
         Microsoft.MixedReality.Toolkit.Providers.OpenVR
@@ -88,18 +89,18 @@ MonoBehaviour:
     reference: Microsoft.MixedReality.Toolkit.Input.DefaultRaycastProvider, Microsoft.MixedReality.Toolkit.Services.InputSystem
   focusQueryBufferSize: 128
   focusIndividualCompoundCollider: 0
-  inputActionsProfile: {fileID: 11400000, guid: 723eb97b02944311b92861f473eee53e,
+  inputActionsProfile: {fileID: 11400000, guid: 4e3cdceab7306ef4db93c629e168493c,
     type: 2}
-  inputActionRulesProfile: {fileID: 11400000, guid: 03945385d89102f41855bc8f5116b199,
+  inputActionRulesProfile: {fileID: 11400000, guid: 8c22371b648dbfb4e9aad9161c8d5f4a,
     type: 2}
-  pointerProfile: {fileID: 11400000, guid: 48aa63a9725047b28d4137fd0834bc31, type: 2}
-  gesturesProfile: {fileID: 11400000, guid: bd7829a9b29409045a745b5a18299291, type: 2}
+  pointerProfile: {fileID: 11400000, guid: 9a3b49a11066592499a6cbd37f215502, type: 2}
+  gesturesProfile: {fileID: 11400000, guid: ca5c4ee939aca1641ab871e3a694ef89, type: 2}
   speechCommandsProfile: {fileID: 11400000, guid: e8d0393e66374dae9646851a57dc6bc1,
     type: 2}
   enableControllerMapping: 1
-  controllerMappingProfile: {fileID: 11400000, guid: 39ded1fd0711a0c448413d0e1ec4f7f3,
+  controllerMappingProfile: {fileID: 11400000, guid: 1311bfcbd6a491e4e9d5948881810412,
     type: 2}
-  controllerVisualizationProfile: {fileID: 11400000, guid: 345c06fdf3732db46b96299bd3cba653,
+  controllerVisualizationProfile: {fileID: 11400000, guid: c881cc9f3a9963347b926543721cfc41,
     type: 2}
-  handTrackingProfile: {fileID: 11400000, guid: 7f1e3cd673742f94ca860ac7ae733024,
+  handTrackingProfile: {fileID: 11400000, guid: 47eef542b7f2eec43b07929e81393fe2,
     type: 2}
