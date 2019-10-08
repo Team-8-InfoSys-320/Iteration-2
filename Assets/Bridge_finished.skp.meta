@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 78918c669c04e9f4cb6d99e98a123fd2
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 762c0bfc4a9272ad68743688d53c3812
+  longitude: 174.7466316426005
+  latitude: -36.83018372461994
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 208.10054, y: 414.0819, z: -685.19446}
+      lookAt: {x: -972.4716, y: -1355.561, z: 2443.6755}
+      up: {x: -0.16511588, y: 0.88387626, z: 0.43760657}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Concrete s
+    100004: Google Earth Snapshot
+    100006: Rail
+    100008: Road
+    100010: Road01
+    100012: Steel
+    100014: Steel fram
+    100016: Top
+    400000: //RootNode
+    400002: Concrete s
+    400004: Google Earth Snapshot
+    400006: Rail
+    400008: Road
+    400010: Road01
+    400012: Steel
+    400014: Steel fram
+    400016: Top
+    2100000: Google Earth Snapshot1
+    2100002: Material5
+    2100004: Material16
+    2100006: 02 - Default1
+    2100008: Material11
+    2100010: Material8
+    2100012: Material7
+    2100014: Material14
+    2100016: Material17
+    2300000: Concrete s
+    2300002: Google Earth Snapshot
+    2300004: Rail
+    2300006: Road
+    2300008: Road01
+    2300010: Steel
+    2300012: Steel fram
+    2300014: Top
+    3300000: Concrete s
+    3300002: Google Earth Snapshot
+    3300004: Rail
+    3300006: Road
+    3300008: Road01
+    3300010: Steel
+    3300012: Steel fram
+    3300014: Top
+    4300000: Mesh Google Earth Snapshot
+    4300002: Mesh Concrete s
+    4300004: Mesh Rail
+    4300006: Mesh Road
+    4300008: Mesh Road01
+    4300010: Mesh Steel
+    4300012: Mesh Steel fram
+    4300014: Mesh Top
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

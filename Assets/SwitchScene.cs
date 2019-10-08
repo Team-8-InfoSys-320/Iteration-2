@@ -7,11 +7,11 @@ public class SwitchScene : MonoBehaviour
 {
     public void GotoMainScene()
     {
-        SceneManager.LoadScene("Iteration 1");
+        SceneManager.LoadScene("Auckland");
     }
 
     public void GotoMenuScene()
     {
-        SceneManager.LoadScene("Auckland");
+        SceneManager.LoadScene("Iteration 2");
     }
 }

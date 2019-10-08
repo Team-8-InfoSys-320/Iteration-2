@@ -14,8 +14,10 @@ public class displayUI : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-        myText = GameObject.Find("Text").GetComponent<Text>();
-        myText.color = Color.clear;
+        myText = GameObject.Find("SkyTower").GetComponent<Text>();
+        //myText.color = Color.clear;
+        myText = GameObject.Find("HarbourBridge").GetComponent<Text>();
+        //myText.color = Color.clear;
         //Screen.showCursor = false;
         //Screen.lockCursor = true;
     }
